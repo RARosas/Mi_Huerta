@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/calendario"
+        android:title="@string/calendario"
+        android:icon="@drawable/ic_arrow"/>
+    <item android:id="@+id/vegetales"
+        android:title="@string/vegetales"
+        android:icon="@drawable/ic_arrow"/>
+    <item android:id="@+id/compost"
+        android:title="@string/compost"
+        android:icon="@drawable/ic_arrow"/>
+    <item android:id="@+id/seguimiento"
+        android:title="@string/seguimiento"
+        android:icon="@drawable/ic_arrow"/>
+
+</menu>

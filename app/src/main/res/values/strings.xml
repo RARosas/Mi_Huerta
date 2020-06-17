@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi Huerta</string>
+    <string name="calendario">Calendario</string>
+    <string name="vegetales">Vegetales</string>
+    <string name="compost">Compost</string>
+    <string name="seguimiento">Seguimiento</string>
+    <string name="nav_background">Navigation header background</string>
+    <string name="creator_contact">raul.rosas92@hotmail.com</string>
+    <string name="open_nav_desc">Open Navigation Drawer</string>
+    <string name="close_nav_desc">Close Navigation Drawer</string>
+</resources>
